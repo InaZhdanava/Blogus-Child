@@ -1,0 +1,12 @@
+/* 
+ Theme Name:   Blogus Child  
+ Description:  Child theme for Blogus
+ Template:     blogus
+ Version:      1.0
+
+*/
+.bs-widget.widget_block.filter {
+	border: 1px solid #d7d7d7;
+    margin-left: 20px;
+    padding: 20px 15px;
+}
